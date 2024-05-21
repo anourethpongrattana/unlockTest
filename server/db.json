@@ -1,0 +1,324 @@
+{
+    "artistes": [
+      {
+        "id": "1",
+        "premium": true,
+        "genre": "Pop",
+        "popularite": 98,
+        "name": "Michael Jackson",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa"
+      },
+      {
+        "id": "2",
+        "premium": false,
+        "genre": "Pop",
+        "popularite": 95,
+        "name": "Madonna",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb4b36d28b55620959821f4a5b"
+      },
+      {
+        "id": "3",
+        "premium": true,
+        "genre": "Rock",
+        "popularite": 97,
+        "name": "Elvis",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb9a93e273380982dff84c0d7c"
+      },
+      {
+        "id": "4",
+        "premium": true,
+        "genre": "Rock",
+        "popularite": 96,
+        "name": "Freddie Mercury",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb1052b77abd7f89485562d797"
+      },
+      {
+        "id": "5",
+        "premium": false,
+        "genre": "R&B",
+        "popularite": 93,
+        "name": "Beyoncé",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb247f44069c0bd1781df2f785"
+      },
+      {
+        "id": "6",
+        "premium": false,
+        "genre": "Pop",
+        "popularite": 90,
+        "name": "Adele",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17"
+      },
+      {
+        "id": "7",
+        "premium": true,
+        "genre": "Pop",
+        "popularite": 95,
+        "name": "Taylor Swift",
+        "url": "https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676"
+      },
+      {
+        "id": "8",
+        "premium": true,
+        "genre": "Pop",
+        "popularite": 92,
+        "name": "Bruno Mars",
+        "url": "https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd"
+      },
+      {
+        "id": "9",
+        "premium": true,
+        "genre": "Pop",
+        "popularite": 91,
+        "name": "Lady Gaga",
+        "url": "https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf"
+      },
+      {
+        "id": "10",
+        "premium": true,
+        "genre": "Hip-Hop",
+        "popularite": 94,
+        "name": "Kanye West",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a"
+      },
+      {
+        "id": "11",
+        "premium": true,
+        "genre": "Hip-Hop",
+        "popularite": 89,
+        "name": "Jay-Z",
+        "url": "https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4"
+      },
+      {
+        "id": "12",
+        "premium": true,
+        "genre": "Hip-Hop",
+        "popularite": 95,
+        "name": "Drake",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9"
+      },
+      {
+        "id": "13",
+        "premium": true,
+        "genre": "Pop",
+        "popularite": 94,
+        "name": "Rihanna",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789"
+      },
+      {
+        "id": "14",
+        "premium": false,
+        "genre": "Pop",
+        "popularite": 90,
+        "name": "Katy Perry",
+        "url": "https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6"
+      },
+      {
+        "id": "15",
+        "premium": false,
+        "genre": "Pop",
+        "popularite": 89,
+        "name": "Justin Bieber",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36"
+      },
+      {
+        "id": "16",
+        "premium": true,
+        "genre": "Pop",
+        "popularite": 95,
+        "name": "Ed Sheeran",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb3bcef85e105dfc42399ef0ba"
+      },
+      {
+        "id": "17",
+        "premium": false,
+        "genre": "Pop",
+        "popularite": 92,
+        "name": "Ariana Grande",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0"
+      },
+      {
+        "id": "18",
+        "premium": false,
+        "genre": "Pop",
+        "popularite": 88,
+        "name": "Shawn Mendes",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb93e1fe183be0aebda170283a"
+      },
+      {
+        "id": "19",
+        "premium": false,
+        "genre": "Pop",
+        "popularite": 87,
+        "name": "Sam Smith",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb7ba9b5726cdd0814dc0cda2e"
+      },
+      {
+        "id": "20",
+        "premium": true,
+        "genre": "R&B",
+        "popularite": 91,
+        "name": "Alicia Keys",
+        "url": "https://i.scdn.co/image/ab6761610000e5ebebfd16a3bca87c31c1e20576"
+      },
+      {
+        "id": "21",
+        "premium": true,
+        "genre": "Hip-Hop",
+        "popularite": 90,
+        "name": "Snoop Dogg",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb9a398209a4ef3360dce2dec4"
+      },
+      {
+        "id": "22",
+        "premium": true,
+        "genre": "Hip-Hop",
+        "popularite": 96,
+        "name": "Eminem",
+        "url": "https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b"
+      },
+      {
+        "id": "23",
+        "premium": true,
+        "genre": "R&B",
+        "popularite": 85,
+        "name": "Usher",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb716114797a4a644c67c5fa72"
+      },
+      {
+        "id": "24",
+        "premium": false,
+        "genre": "Pop",
+        "popularite": 93,
+        "name": "Billie Eilish",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da"
+      },
+      {
+        "id": "25",
+        "premium": false,
+        "genre": "Pop",
+        "popularite": 94,
+        "name": "Dua Lipa",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d"
+      },
+      {
+        "id": "26",
+        "premium": true,
+        "genre": "Rock",
+        "popularite": 87,
+        "name": "Chris Martin",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb45de7ab990a1246c812128b6"
+      },
+      {
+        "id": "27",
+        "premium": true,
+        "genre": "R&B",
+        "popularite": 88,
+        "name": "John Legend",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb01784e44ffd1a339350f4417"
+      },
+      {
+        "id": "28",
+        "premium": false,
+        "genre": "Pop",
+        "popularite": 86,
+        "name": "Selena Gomez",
+        "url": "https://i.scdn.co/image/ab6761610000e5ebc3c753851496854e29abff7a"
+      },
+      {
+        "id": "29",
+        "premium": true,
+        "genre": "Pop",
+        "popularite": 85,
+        "name": "Miley Cyrus",
+        "url": "https://i.scdn.co/image/ab6761610000e5ebb4ba86c361191d48cbeb4b32"
+      },
+      {
+        "id": "30",
+        "premium": true,
+        "genre": "Hip-Hop",
+        "popularite": 92,
+        "name": "Nicki Minaj",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd"
+      },
+      {
+        "id": "31",
+        "premium": true,
+        "genre": "Hip-Hop",
+        "popularite": 97,
+        "name": "Kendrick Lamar",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022"
+      },
+      {
+        "id": "32",
+        "premium": true,
+        "genre": "R&B",
+        "popularite": 95,
+        "name": "The Weeknd",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb"
+      },
+      {
+        "id": "33",
+        "premium": true,
+        "genre": "Pop",
+        "popularite": 89,
+        "name": "Lana Del Rey",
+        "url": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261"
+      },
+      {
+        "id": "34",
+        "premium": false,
+        "genre": "Electronic",
+        "popularite": 88,
+        "name": "David Guetta",
+        "url": "https://i.scdn.co/image/ab6761610000e5ebf150017ca69c8793503c2d4f"
+      },
+      {
+        "id": "35",
+        "premium": true,
+        "genre": "Electronic",
+        "popularite": 90,
+        "name": "Calvin Harris",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f"
+      },
+      {
+        "id": "36",
+        "premium": false,
+        "genre": "Pop",
+        "popularite": 89,
+        "name": "Sia",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb7c997fe6951bc0926f09ba38"
+      },
+      {
+        "id": "37",
+        "premium": false,
+        "genre": "Pop",
+        "popularite": 87,
+        "name": "Charlie Puth",
+        "url": "https://i.scdn.co/image/ab6761610000e5ebf83823555da55fd07555fbd0"
+      },
+      {
+        "id": "38",
+        "premium": true,
+        "genre": "Pop",
+        "popularite": 86,
+        "name": "Halsey",
+        "url": "https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c"
+      },
+      {
+        "id": "39",
+        "premium": true,
+        "genre": "Hip-Hop",
+        "popularite": 84,
+        "name": "G-Eazy",
+        "url": "https://i.scdn.co/image/ab6761610000e5ebb796c0db7acaf3f1b71d1e3b"
+      },
+      {
+        "id": "40",
+        "premium": true,
+        "genre": "Pop",
+        "popularite": 83,
+        "name": "Demi Lovato",
+        "url": "https://i.scdn.co/image/ab6761610000e5ebcf674ecb51186e6408cd18c0"
+      }
+    ]
+  }
