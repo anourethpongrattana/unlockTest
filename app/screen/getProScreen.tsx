@@ -8,12 +8,13 @@ import {
   Image,
   StyleSheet,
   TouchableOpacity,
+  Platform
 } from "react-native";
 import { RadioButton } from "react-native-paper";
 import { ThemedText } from "@/components/ThemedText";
 import Ionicons from "@expo/vector-icons/Ionicons";
 import { useThemeColor } from "@/hooks/useThemeColor";
-import { ThemedViewProps } from "@/components/ThemedView";
+import { ThemedView, ThemedViewProps } from "@/components/ThemedView";
 
 import { getArtistes, type Artiste } from "@/api/artistes";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
@@ -38,7 +39,7 @@ export default function getProModalScreen({lightColor, darkColor }: ThemedViewPr
   });
 
   return (
-    <SafeAreaView style={styles.container}>
+    <ThemedView style={styles.container}>
       <TouchableOpacity
         onPress={() => router.back()}
         style={{
@@ -49,6 +50,8 @@ export default function getProModalScreen({lightColor, darkColor }: ThemedViewPr
           borderRadius: 16,
           alignItems: "center",
           justifyContent: "center",
+          top: Platform.OS === 'ios' ? 0: 50,
+          zIndex: 999
         }}
       >
         <ThemedText><Ionicons name="close-outline" size={17} /></ThemedText>
@@ -113,7 +116,7 @@ export default function getProModalScreen({lightColor, darkColor }: ThemedViewPr
           <ThemedText style={styles.buttonText}>Try It Free</ThemedText>
         </TouchableOpacity>
       </ScrollView>
-    </SafeAreaView>
+    </ThemedView>
   );
 }
 
