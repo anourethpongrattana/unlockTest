@@ -50,7 +50,7 @@ export default function getProModalScreen({lightColor, darkColor }: ThemedViewPr
           borderRadius: 16,
           alignItems: "center",
           justifyContent: "center",
-          top: Platform.OS === 'ios' ? 0: 50,
+          top: Platform.OS === 'ios' ? 40: 50,
           zIndex: 999
         }}
       >
