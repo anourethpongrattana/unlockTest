@@ -9,7 +9,7 @@ export function GetProButton() {
   return (
       <TouchableOpacity
         style={styles.button}
-        onPress={() => router.push("getProScreen")}
+        onPress={() => router.push("screen/getProScreen")}
       >
         <Ionicons name='star' size={17}/><ThemedText style={styles.text}>Get pro</ThemedText>
       </TouchableOpacity>

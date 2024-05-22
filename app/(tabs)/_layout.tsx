@@ -34,7 +34,7 @@ export default function TabLayout() {
         listeners={() => ({
           tabPress: (e) => {
             e.preventDefault()
-            router.push("getProScreen") // <-- Here you put the name where the chat component is declared 
+            router.push("screen/getProScreen") 
           },
         })}
       />
